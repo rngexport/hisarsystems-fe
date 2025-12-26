@@ -28,3 +28,4 @@ npm run lint
 
 Tailwind içerik dosyaları `tailwind.config.js` altında tanımlı. Global stiller `src/index.css`, örnek sayfa içeriği `src/App.tsx` dosyasında.
 # trakyadesign-fe
+# trakyadesign-fe
