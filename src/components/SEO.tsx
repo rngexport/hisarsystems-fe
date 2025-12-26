@@ -12,7 +12,7 @@ interface SEOProps {
 const SEO: React.FC<SEOProps> = ({ title, description, keywords, canonical }) => {
   const { t } = useLanguage();
   const siteTitle = t('seo.home.title');
-  const fullTitle = title === "Home" ? siteTitle : `${title} | Trakya Design`;
+  const fullTitle = title === "Home" ? siteTitle : `${title} | Hisar Systems`;
 
   return (
     <Helmet>
@@ -25,7 +25,7 @@ const SEO: React.FC<SEOProps> = ({ title, description, keywords, canonical }) =>
       <meta property="og:type" content="website" />
       <meta property="og:title" content={fullTitle} />
       <meta property="og:description" content={description} />
-      <meta property="og:site_name" content="Trakya Design" />
+      <meta property="og:site_name" content="Hisar Systems" />
       
       {/* Twitter */}
       <meta name="twitter:card" content="summary_large_image" />

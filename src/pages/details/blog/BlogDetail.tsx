@@ -61,7 +61,7 @@ const blogPostsTr: Record<BlogKey, BlogPost> = {
         </ul>
 
         <div className="bg-dark-800 border-l-4 border-brand p-6 my-8">
-          <h4 className="text-white font-bold mb-2">Trakya Design Yaklaşımı</h4>
+          <h4 className="text-white font-bold mb-2">Hisar Systems Yaklaşımı</h4>
           <p className="text-slate-300">
             Savunma ve kimya projelerimizde, sadece donanım değil, yazılım mimarisi de SIL3 standartlarına uygun geliştirilir. "Cause & Effect" matrisleri, Safety Function Block'lar ile kodlanır ve simülasyon ortamında fault-injection testlerine tabi tutulur.
           </p>
@@ -240,7 +240,7 @@ const blogPostsTr: Record<BlogKey, BlogPost> = {
         </div>
 
         <p className="text-slate-400 mb-4">
-          Trakya Design olarak, hibrit kontrol mimarilerini tercih ediyoruz. Sistemin kararlı olduğu bölgelerde PID'nin hassasiyetini, geçiş süreçlerinde ve anormalliklerde ise Fuzzy Logic'in esnekliğini kullanarak optimum kontrol sağlıyoruz.
+          Hisar Systems olarak, hibrit kontrol mimarilerini tercih ediyoruz. Sistemin kararlı olduğu bölgelerde PID'nin hassasiyetini, geçiş süreçlerinde ve anormalliklerde ise Fuzzy Logic'in esnekliğini kullanarak optimum kontrol sağlıyoruz.
         </p>
       </>
     )
@@ -278,7 +278,7 @@ const blogPostsEn: Record<BlogKey, BlogPost> = {
         </ul>
 
         <div className="bg-dark-800 border-l-4 border-brand p-6 my-8">
-          <h4 className="text-white font-bold mb-2">Trakya Design Approach</h4>
+          <h4 className="text-white font-bold mb-2">Hisar Systems Approach</h4>
           <p className="text-slate-300">
             In our defense and chemical projects, not only the hardware but also the software architecture is developed in accordance with SIL3 standards. "Cause & Effect" matrices are coded with Safety Function Blocks and subjected to fault-injection tests in a simulation environment.
           </p>
@@ -457,7 +457,7 @@ const blogPostsEn: Record<BlogKey, BlogPost> = {
         </div>
 
         <p className="text-slate-400 mb-4">
-          As Trakya Design, we prefer hybrid control architectures. We ensure optimum control by using the precision of PID in regions where the system is stable, and the flexibility of Fuzzy Logic in transition processes and abnormalities.
+          As Hisar Systems, we prefer hybrid control architectures. We ensure optimum control by using the precision of PID in regions where the system is stable, and the flexibility of Fuzzy Logic in transition processes and abnormalities.
         </p>
       </>
     )
@@ -489,7 +489,7 @@ export default function BlogDetail() {
       <SEO 
         title={post.title}
         description={`${post.title} - ${t('blog_page.title')}`}
-        keywords={`${post.tags.join(', ')}, ${t('blog_page.title')}, Trakya Design`}
+        keywords={`${post.tags.join(', ')}, ${t('blog_page.title')}, Hisar Systems`}
       />
       {/* Hero Image */}
       <div className="relative h-[400px] md:h-[500px] w-full overflow-hidden">

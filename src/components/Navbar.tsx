@@ -28,7 +28,7 @@ const Navbar = () => {
             <Shield className="h-8 w-8 text-brand animate-pulse" />
             <div className="flex flex-col">
               <span className="text-white font-display font-bold text-xl tracking-wider">
-                TRAKYA DESIGN
+                HISAR SYSTEMS
               </span>
               <span className="text-[10px] text-brand tracking-[0.2em]">
                 ENGINEERING

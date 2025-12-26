@@ -13,14 +13,14 @@ export const translations = {
     },
     seo: {
       home: {
-        title: "Trakya Design | İleri Endüstriyel Mühendislik",
-        description: "Trakya Design, endüstriyel otomasyon, SCADA, Safety PLC ve dijital ikiz simülasyon teknolojileri ile fabrikalar için ileri mühendislik çözümleri sunar.",
-        keywords: "Endüstriyel Otomasyon, SCADA Sistemleri, PLC Programlama, Safety PLC, SIL3, Dijital İkiz, Proses Kontrol, Akıllı Fabrika, Endüstri 4.0, Mühendislik, Trakya Design, Robotik Otomasyon, MES Sistemleri"
+        title: "Hisar Systems | İleri Endüstriyel Mühendislik",
+        description: "Hisar Systems, endüstriyel otomasyon, SCADA, Safety PLC ve dijital ikiz simülasyon teknolojileri ile fabrikalar için ileri mühendislik çözümleri sunar.",
+        keywords: "Endüstriyel Otomasyon, SCADA Sistemleri, PLC Programlama, Safety PLC, SIL3, Dijital İkiz, Proses Kontrol, Akıllı Fabrika, Endüstri 4.0, Mühendislik, Hisar Systems, Robotik Otomasyon, MES Sistemleri"
       },
       about: {
         title: "Hakkımızda",
-        description: "Endüstriyel otomasyon ve mühendislikte 15+ yıllık tecrübe. Trakya Design, prosesin beynini inşa eder.",
-        keywords: "Trakya Design Hakkında, Otomasyon Mühendisliği, Kurumsal, Mühendislik Kadrosu, Endüstriyel Çözümler"
+        description: "Endüstriyel otomasyon ve mühendislikte 15+ yıllık tecrübe. Hisar Systems, prosesin beynini inşa eder.",
+        keywords: "Hisar Systems Hakkında, Otomasyon Mühendisliği, Kurumsal, Mühendislik Kadrosu, Endüstriyel Çözümler"
       },
       technologies: {
         title: "Teknolojiler",
@@ -39,7 +39,7 @@ export const translations = {
       },
       contact: {
         title: "İletişim",
-        description: "Projeleriniz için bizimle iletişime geçin. Trakya Design uzman mühendis kadrosuyla yanınızda.",
+        description: "Projeleriniz için bizimle iletişime geçin. Hisar Systems uzman mühendis kadrosuyla yanınızda.",
         keywords: "İletişim, Teklif Al, Bize Ulaşın, Adres, Telefon, E-posta"
       },
       services: {
@@ -140,7 +140,7 @@ export const translations = {
       desc: 'Bu bölüm klasik bir iletişim alanı değildir. Mesajınız doğrudan mühendislik komuta merkezine düşer.',
       location_title: 'Merkez Lokasyon',
       address: [
-        'TRAKYA DESIGN PROJE LİMİTED ŞİRKETİ',
+        'HISAR SYSTEMS PROJE LİMİTED ŞİRKETİ',
         'Yakuplu Mahallesi, Hürriyet Bulvarı',
         'Skyport Residence No:1 İç Kapı No: 70',
         'Beylikdüzü / İstanbul — Türkiye'
@@ -195,7 +195,7 @@ export const translations = {
     about_page: {
       corporate: 'Kurumsal',
       hero_title: 'Prosesin Beynini İnşa Ediyoruz.',
-      hero_desc: 'Trakya Design Proje Ltd. Şti., endüstriyel tesis otomasyonu, SCADA mimarisi ve güvenlik sınıfı PLC yazılımları üzerine uzmanlaşmış bir teknoloji merkezidir.',
+      hero_desc: 'Hisar Systems Proje Ltd. Şti., endüstriyel tesis otomasyonu, SCADA mimarisi ve güvenlik sınıfı PLC yazılımları üzerine uzmanlaşmış bir teknoloji merkezidir.',
       history_title: 'Tarihçe',
       history_subtitle: '2012\'den bugüne mühendislik yolculuğu',
       history_2012_title: '2012 — Kuruluş',
@@ -220,7 +220,7 @@ export const translations = {
       lab_label: 'DIGITAL TWIN LAB',
       lab_title: 'Yazılım Laboratuvarı',
       lab_heading: 'Fabrika – Altyapı – Yazılım Laboratuvarı',
-      lab_desc: 'Trakya Design, yalnızca yazılım üreten bir masa başı firması değil; kontrol kartından SCADA ekranına kadar tüm katmanı tek çatı altında kurabilen bir teknoloji merkezidir.',
+      lab_desc: 'Hisar Systems, yalnızca yazılım üreten bir masa başı firması değil; kontrol kartından SCADA ekranına kadar tüm katmanı tek çatı altında kurabilen bir teknoloji merkezidir.',
       lab_items: [
         "SCADA–MES–PLC entegrasyonlarının uçtan uca tasarımı",
         "Digital Twin laboratuvarında proses davranış simülasyonları",
@@ -663,7 +663,7 @@ export const translations = {
       share: "Paylaş",
       related: "İlgili Okumalar",
       read_time: "okuma",
-      team: "Trakya Design Engineering Team"
+      team: "Hisar Systems Engineering Team"
     },
     blog_list: {
       'sil3-safety-plc': {
@@ -712,14 +712,14 @@ export const translations = {
     },
     seo: {
       home: {
-        title: "Trakya Design | Advanced Industrial Engineering",
-        description: "Trakya Design provides advanced engineering solutions for factories with industrial automation, SCADA, Safety PLC, and digital twin simulation technologies.",
-        keywords: "Industrial Automation, SCADA Systems, PLC Programming, Safety PLC, SIL3, Digital Twin, Process Control, Smart Factory, Industry 4.0, Engineering, Trakya Design, Robotic Automation, MES Systems"
+        title: "Hisar Systems | Advanced Industrial Engineering",
+        description: "Hisar Systems provides advanced engineering solutions for factories with industrial automation, SCADA, Safety PLC, and digital twin simulation technologies.",
+        keywords: "Industrial Automation, SCADA Systems, PLC Programming, Safety PLC, SIL3, Digital Twin, Process Control, Smart Factory, Industry 4.0, Engineering, Hisar Systems, Robotic Automation, MES Systems"
       },
       about: {
         title: "About Us",
-        description: "15+ years of experience in industrial automation and engineering. Trakya Design builds the brain of the process.",
-        keywords: "About Trakya Design, Automation Engineering, Corporate, Engineering Team, Industrial Solutions"
+        description: "15+ years of experience in industrial automation and engineering. Hisar Systems builds the brain of the process.",
+        keywords: "About Hisar Systems, Automation Engineering, Corporate, Engineering Team, Industrial Solutions"
       },
       technologies: {
         title: "Technologies",
@@ -738,7 +738,7 @@ export const translations = {
       },
       contact: {
         title: "Contact",
-        description: "Contact us for your projects. Trakya Design is with you with its expert engineering team.",
+        description: "Contact us for your projects. Hisar Systems is with you with its expert engineering team.",
         keywords: "Contact, Get Quote, Reach Us, Address, Phone, Email"
       },
       services: {
@@ -839,7 +839,7 @@ export const translations = {
       desc: 'This is not a classic contact section. Your message lands directly at the engineering command center.',
       location_title: 'Central Location',
       address: [
-        'TRAKYA DESIGN PROJECT LIMITED COMPANY',
+        'HISAR SYSTEMS PROJECT LIMITED COMPANY',
         'Yakuplu District, Hurriyet Boulevard',
         'Skyport Residence No:1 Inner Door No: 70',
         'Beylikduzu / Istanbul — Turkiye'
@@ -894,7 +894,7 @@ export const translations = {
     about_page: {
       corporate: 'Corporate',
       hero_title: 'We Build the Brain of the Process.',
-      hero_desc: 'Trakya Design Project Ltd. Co. is a technology center specializing in industrial facility automation, SCADA architecture, and safety-class PLC software.',
+      hero_desc: 'Hisar Systems Project Ltd. Co. is a technology center specializing in industrial facility automation, SCADA architecture, and safety-class PLC software.',
       history_title: 'History',
       history_subtitle: 'Engineering journey from 2012 to today',
       history_2012_title: '2012 — Establishment',
@@ -919,7 +919,7 @@ export const translations = {
       lab_label: 'DIGITAL TWIN LAB',
       lab_title: 'Software Laboratory',
       lab_heading: 'Factory – Infrastructure – Software Laboratory',
-      lab_desc: 'Trakya Design is not just a desk-based firm producing software; it is a technology center capable of establishing the entire layer from control card to SCADA screen under one roof.',
+      lab_desc: 'Hisar Systems is not just a desk-based firm producing software; it is a technology center capable of establishing the entire layer from control card to SCADA screen under one roof.',
       lab_items: [
         "End-to-end design of SCADA–MES–PLC integrations",
         "Process behavior simulations in Digital Twin laboratory",
@@ -1362,7 +1362,7 @@ export const translations = {
       share: "Share",
       related: "Related Readings",
       read_time: "read",
-      team: "Trakya Design Engineering Team"
+      team: "Hisar Systems Engineering Team"
     },
     blog_list: {
       'sil3-safety-plc': {

@@ -31,7 +31,7 @@ const sectorDetails: Record<
     title: 'Savunma Sanayi',
     subtitle: 'Nitro-selüloz, TNT, RDX ve enerjetik prosesler için SIL güvenlikli SCADA–PLC mimarileri.',
     description:
-      'Savunma sanayinde hata toleransı sıfırdır. Trakya Design, patlayıcı ve tehlikeli kimyasalların üretim hatlarında SIL3 (Safety Integrity Level) standartlarında otomasyon çözümleri sunar. MKEK ve SSB projelerindeki tecrübemizle, kritik tesislerin güvenliğini ve sürekliliğini sağlıyoruz. Yedekli (redundant) kontrol mimarileri, fiber optik ring ağlar ve özel ESD (Emergency Shutdown) matrisleri ile kesintisiz ve güvenli üretim garantisi veriyoruz.',
+      'Savunma sanayinde hata toleransı sıfırdır. Hisar Systems, patlayıcı ve tehlikeli kimyasalların üretim hatlarında SIL3 (Safety Integrity Level) standartlarında otomasyon çözümleri sunar. MKEK ve SSB projelerindeki tecrübemizle, kritik tesislerin güvenliğini ve sürekliliğini sağlıyoruz. Yedekli (redundant) kontrol mimarileri, fiber optik ring ağlar ve özel ESD (Emergency Shutdown) matrisleri ile kesintisiz ve güvenli üretim garantisi veriyoruz.',
     image: defenceSectorImg,
     features: [
       'SIL3 Safety PLC ve ESD (Emergency Shutdown) Sistemleri',

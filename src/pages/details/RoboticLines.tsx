@@ -33,7 +33,7 @@ const RoboticLines = () => {
                 cycle-time optimizasyonu bir bütün olarak tasarlanır.
               </p>
               <p className="text-slate-400 leading-relaxed">
-                Trakya Design olarak, robotik hücrelerin (robotic cells) simülasyonunu yapıyor, offline programming ile
+                Hisar Systems olarak, robotik hücrelerin (robotic cells) simülasyonunu yapıyor, offline programming ile
                 robot yörüngelerini önceden belirliyor ve sahada sıfır hata ile devreye alıyoruz.
               </p>
             </div>

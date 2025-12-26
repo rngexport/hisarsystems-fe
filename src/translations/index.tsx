@@ -93,7 +93,7 @@ export const translations = {
       desc: 'Bu bölüm klasik bir iletişim alanı değildir. Mesajınız doğrudan mühendislik komuta merkezine düşer.',
       location_title: 'Merkez Lokasyon',
       address: [
-        'TRAKYA DESIGN PROJE LİMİTED ŞİRKETİ',
+        'HISAR SYSTEMS PROJE LİMİTED ŞİRKETİ',
         'Yakuplu Mahallesi, Hürriyet Bulvarı',
         'Skyport Residence No:1 İç Kapı No: 70',
         'Beylikdüzü / İstanbul — Türkiye'
@@ -148,7 +148,7 @@ export const translations = {
     about_page: {
       corporate: 'Kurumsal',
       hero_title: 'Prosesin Beynini İnşa Ediyoruz.',
-      hero_desc: 'Trakya Design Proje Ltd. Şti., endüstriyel tesis otomasyonu, SCADA mimarisi ve güvenlik sınıfı PLC yazılımları üzerine uzmanlaşmış bir teknoloji merkezidir.',
+      hero_desc: 'Hisar Systems Proje Ltd. Şti., endüstriyel tesis otomasyonu, SCADA mimarisi ve güvenlik sınıfı PLC yazılımları üzerine uzmanlaşmış bir teknoloji merkezidir.',
       history_title: 'Tarihçe',
       history_subtitle: '2012\'den bugüne mühendislik yolculuğu',
       history_2012_title: '2012 — Kuruluş',
@@ -173,7 +173,7 @@ export const translations = {
       lab_label: 'DIGITAL TWIN LAB',
       lab_title: 'Yazılım Laboratuvarı',
       lab_heading: 'Fabrika – Altyapı – Yazılım Laboratuvarı',
-      lab_desc: 'Trakya Design, yalnızca yazılım üreten bir masa başı firması değil; kontrol kartından SCADA ekranına kadar tüm katmanı tek çatı altında kurabilen bir teknoloji merkezidir.',
+      lab_desc: 'Hisar Systems, yalnızca yazılım üreten bir masa başı firması değil; kontrol kartından SCADA ekranına kadar tüm katmanı tek çatı altında kurabilen bir teknoloji merkezidir.',
       lab_items: [
         "SCADA–MES–PLC entegrasyonlarının uçtan uca tasarımı",
         "Digital Twin laboratuvarında proses davranış simülasyonları",
@@ -567,7 +567,7 @@ export const translations = {
       desc: 'This is not a classic contact section. Your message lands directly at the engineering command center.',
       location_title: 'Central Location',
       address: [
-        'TRAKYA DESIGN PROJECT LIMITED COMPANY',
+        'HISAR SYSTEMS PROJECT LIMITED COMPANY',
         'Yakuplu District, Hurriyet Boulevard',
         'Skyport Residence No:1 Inner Door No: 70',
         'Beylikduzu / Istanbul — Turkiye'
@@ -622,7 +622,7 @@ export const translations = {
     about_page: {
       corporate: 'Corporate',
       hero_title: 'We Build the Brain of the Process.',
-      hero_desc: 'Trakya Design Project Ltd. Co. is a technology center specializing in industrial facility automation, SCADA architecture, and safety-class PLC software.',
+      hero_desc: 'Hisar Systems Project Ltd. Co. is a technology center specializing in industrial facility automation, SCADA architecture, and safety-class PLC software.',
       history_title: 'History',
       history_subtitle: 'Engineering journey from 2012 to today',
       history_2012_title: '2012 — Establishment',
@@ -647,7 +647,7 @@ export const translations = {
       lab_label: 'DIGITAL TWIN LAB',
       lab_title: 'Software Laboratory',
       lab_heading: 'Factory – Infrastructure – Software Laboratory',
-      lab_desc: 'Trakya Design is not just a desk-based firm producing software; it is a technology center capable of establishing the entire layer from control card to SCADA screen under one roof.',
+      lab_desc: 'Hisar Systems is not just a desk-based firm producing software; it is a technology center capable of establishing the entire layer from control card to SCADA screen under one roof.',
       lab_items: [
         "End-to-end design of SCADA–MES–PLC integrations",
         "Process behavior simulations in Digital Twin laboratory",

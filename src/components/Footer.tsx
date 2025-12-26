@@ -16,7 +16,7 @@ const Footer = () => {
               <Shield className="h-8 w-8 text-brand" />
               <div className="flex flex-col">
                 <span className="text-white font-display font-bold text-xl tracking-wider">
-                  TRAKYA DESIGN
+                  HISAR SYSTEMS
                 </span>
                 <span className="text-[10px] text-brand tracking-[0.2em] uppercase">
                   Engineering
@@ -75,7 +75,7 @@ const Footer = () => {
 
         <div className="border-t border-military-light pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-slate-500 text-xs">
-            © {new Date().getFullYear()} Trakya Design Proje Ltd. Şti. {t('footer.rights')}
+            © {new Date().getFullYear()} Hisar Systems Proje Ltd. Şti. {t('footer.rights')}
           </p>
           <div className="flex gap-6">
             <span className="text-slate-500 text-xs hover:text-brand cursor-pointer">{t('footer.privacy')}</span>

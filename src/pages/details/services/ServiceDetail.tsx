@@ -37,7 +37,7 @@ const serviceDetails: Record<
     title: 'Endüstriyel Otomasyon',
     subtitle: 'Savunma sınıfı prosesler için tam ölçekli, yedekli ve güvenli kontrol mimarisi.',
     description:
-      'Endüstriyel otomasyon, sadece makinaları hareket ettirmek değil, üretim süreçlerini akıllı, izlenebilir ve hatasız hale getirmektir. Trakya Design olarak, PLC, HMI, Servo ve Robotik sistemlerin tam entegrasyonunu sağlayarak, tesisinizin verimliliğini maksimize ediyoruz. Özellikle duruş tahammülü olmayan (mission-critical) proseslerde, yedekli (redundant) CPU ve Network altyapıları ile %99.99 süreklilik garantisi sunuyoruz.',
+      'Endüstriyel otomasyon, sadece makinaları hareket ettirmek değil, üretim süreçlerini akıllı, izlenebilir ve hatasız hale getirmektir. Hisar Systems olarak, PLC, HMI, Servo ve Robotik sistemlerin tam entegrasyonunu sağlayarak, tesisinizin verimliliğini maksimize ediyoruz. Özellikle duruş tahammülü olmayan (mission-critical) proseslerde, yedekli (redundant) CPU ve Network altyapıları ile %99.99 süreklilik garantisi sunuyoruz.',
     image: automationImg,
     bullets: [
       'HAZARD rated hatlar, failover senaryoları ve batch logic geliştirme',
