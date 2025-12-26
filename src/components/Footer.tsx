@@ -63,11 +63,21 @@ const Footer = () => {
               </li>
               <li className="flex items-center gap-3">
                 <Mail className="h-5 w-5 text-brand shrink-0" />
-                <span className="text-slate-400 text-sm">info@rngexport.com</span>
+                <span className="text-slate-400 text-sm">info@hisarsystems.com</span>
               </li>
-              <li className="flex items-center gap-3">
-                <Phone className="h-5 w-5 text-brand shrink-0" />
-                <span className="text-slate-400 text-sm">+90 242 502 17 72</span>
+              <li className="flex flex-col gap-2">
+                <div className="flex items-center gap-3">
+                  <Phone className="h-5 w-5 text-brand shrink-0" />
+                  <span className="text-slate-400 text-sm">+90 212 858 19 23</span>
+                </div>
+                <div className="flex items-center gap-3">
+                  <Phone className="h-5 w-5 text-brand shrink-0" />
+                  <span className="text-slate-400 text-sm">+90 212 858 19 24</span>
+                </div>
+                <div className="flex items-center gap-3">
+                  <Phone className="h-5 w-5 text-brand shrink-0" />
+                  <span className="text-slate-400 text-sm">+90 532 334 53 74</span>
+                </div>
               </li>
             </ul>
           </div>
@@ -75,7 +85,7 @@ const Footer = () => {
 
         <div className="border-t border-military-light pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-slate-500 text-xs">
-            © {new Date().getFullYear()} Hisar Systems Proje Ltd. Şti. {t('footer.rights')}
+            © {new Date().getFullYear()} Trakya Design Limited Şirketi {t('footer.rights')}
           </p>
           <div className="flex gap-6">
             <span className="text-slate-500 text-xs hover:text-brand cursor-pointer">{t('footer.privacy')}</span>

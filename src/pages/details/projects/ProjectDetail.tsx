@@ -199,11 +199,14 @@ export default function ProjectDetail() {
                     ))}
                 </div>
 
-                <div className="pt-2">
-                  <button className="w-full bg-white text-black hover:bg-brand font-bold py-3 px-4 rounded transition-all flex items-center justify-center gap-2 group shadow-lg">
+                <div className="pt-4 border-t border-white/10">
+                  <a 
+                    href={`mailto:info@hisarsystems.com?subject=Detaylı Rapor Talebi - ${detail.title}&body=Merhaba,%0D%0A%0D%0A${detail.title} projesi hakkında detaylı teknik rapor talep ediyorum.%0D%0A%0D%0ALütfen bana ulaşın.%0D%0A%0D%0ATeşekkürler.`}
+                    className="w-full bg-brand text-black hover:bg-brand/90 font-bold py-3 px-4 rounded transition-all flex items-center justify-center gap-2 group shadow-lg shadow-brand/20"
+                  >
                     <FileText className="w-4 h-4" />
                     <span>{t('project_detail_labels.request_report')}</span>
-                  </button>
+                  </a>
                   <p className="text-[10px] text-slate-500 text-center mt-3 leading-tight">
                     {t('project_detail_labels.nda_warning')}
                   </p>

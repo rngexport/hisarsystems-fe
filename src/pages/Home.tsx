@@ -100,7 +100,7 @@ const Home = () => {
         <div className="relative z-10 max-w-5xl mx-auto px-4 text-center">
           <div className="inline-flex items-center gap-2 px-4 py-1 mb-6 border border-brand/30 rounded-full bg-brand/5 backdrop-blur-sm">
             <div className="w-2 h-2 rounded-full bg-brand animate-pulse"></div>
-            <span className="text-brand text-xs font-mono tracking-widest uppercase">System Operational</span>
+            <span className="text-brand text-xs font-mono tracking-widest uppercase">HISAR SYSTEMS</span>
           </div>
 
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold text-white mb-6 tracking-tight leading-tight">
