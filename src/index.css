@@ -1,0 +1,66 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  background-color: #000000;
+  color: #e2e8f0;
+}
+
+@layer base {
+  body {
+    @apply bg-black text-slate-100 overflow-x-hidden;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-display;
+  }
+}
+
+@layer components {
+  .neon-border {
+    @apply border border-brand/50 shadow-[0_0_10px_rgba(0,246,216,0.2)];
+  }
+  
+  .neon-text {
+    @apply text-brand drop-shadow-[0_0_5px_rgba(0,246,216,0.8)];
+  }
+
+  .military-card {
+    @apply bg-dark-800 border border-brand/20 hover:border-brand hover:shadow-[0_0_15px_rgba(0,246,216,0.3)] transition-all duration-300;
+  }
+
+  .btn-primary {
+    @apply relative overflow-hidden bg-transparent border border-brand text-brand font-semibold px-6 py-3 hover:bg-brand hover:text-black transition-all duration-300 uppercase tracking-wider text-sm shadow-[0_0_10px_rgba(0,246,216,0.2)] hover:shadow-[0_0_20px_rgba(0,246,216,0.6)];
+}
+
+  .btn-secondary {
+    @apply relative overflow-hidden bg-military-light/20 border border-military text-slate-300 font-semibold px-6 py-3 hover:bg-military hover:text-white transition-all duration-300 uppercase tracking-wider text-sm;
+}
+
+  .scan-line {
+    @apply absolute w-full h-[2px] bg-brand/50 shadow-[0_0_10px_#00f6d8] animate-[scan_3s_linear_infinite];
+  }
+}
+
+@keyframes scan {
+  0% { top: 0%; opacity: 0; }
+  10% { opacity: 1; }
+  90% { opacity: 1; }
+  100% { top: 100%; opacity: 0; }
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #000;
+}
+::-webkit-scrollbar-thumb {
+  background: #1c2b1c;
+  border: 1px solid #00f6d8;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #00f6d8;
+}

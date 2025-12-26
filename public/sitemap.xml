@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Main Pages -->
+  <url>
+    <loc>https://trakyadesign.com.tr/</loc>
+    <lastmod>2025-12-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://trakyadesign.com.tr/about</loc>
+    <lastmod>2025-12-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://trakyadesign.com.tr/services</loc>
+    <lastmod>2025-12-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://trakyadesign.com.tr/projects</loc>
+    <lastmod>2025-12-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://trakyadesign.com.tr/sectors</loc>
+    <lastmod>2025-12-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://trakyadesign.com.tr/technologies</loc>
+    <lastmod>2025-12-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://trakyadesign.com.tr/rnd</loc>
+    <lastmod>2025-12-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://trakyadesign.com.tr/blog</loc>
+    <lastmod>2025-12-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://trakyadesign.com.tr/contact</loc>
+    <lastmod>2025-12-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Blog Posts -->
+  <url><loc>https://trakyadesign.com.tr/blog/sil3-safety-plc</loc><priority>0.8</priority></url>
+  <url><loc>https://trakyadesign.com.tr/blog/digital-twin-reactor</loc><priority>0.8</priority></url>
+  <url><loc>https://trakyadesign.com.tr/blog/alarm-event-trend</loc><priority>0.7</priority></url>
+  <url><loc>https://trakyadesign.com.tr/blog/ot-network-security</loc><priority>0.7</priority></url>
+  <url><loc>https://trakyadesign.com.tr/blog/mes-systems</loc><priority>0.7</priority></url>
+  <url><loc>https://trakyadesign.com.tr/blog/pid-vs-fuzzy</loc><priority>0.7</priority></url>
+
+  <!-- Sectors -->
+  <url><loc>https://trakyadesign.com.tr/sectors/defence</loc><priority>0.8</priority></url>
+  <url><loc>https://trakyadesign.com.tr/sectors/chemical</loc><priority>0.8</priority></url>
+  <url><loc>https://trakyadesign.com.tr/sectors/plastic</loc><priority>0.8</priority></url>
+  <url><loc>https://trakyadesign.com.tr/sectors/textile</loc><priority>0.8</priority></url>
+  <url><loc>https://trakyadesign.com.tr/sectors/food</loc><priority>0.8</priority></url>
+  <url><loc>https://trakyadesign.com.tr/sectors/energy</loc><priority>0.8</priority></url>
+
+  <!-- Technologies -->
+  <url><loc>https://trakyadesign.com.tr/technologies/plc</loc><priority>0.8</priority></url>
+  <url><loc>https://trakyadesign.com.tr/technologies/scada</loc><priority>0.8</priority></url>
+  <url><loc>https://trakyadesign.com.tr/technologies/iot</loc><priority>0.8</priority></url>
+  <url><loc>https://trakyadesign.com.tr/technologies/cyber</loc><priority>0.8</priority></url>
+  <url><loc>https://trakyadesign.com.tr/technologies/data</loc><priority>0.8</priority></url>
+  <url><loc>https://trakyadesign.com.tr/technologies/motion</loc><priority>0.8</priority></url>
+
+  <!-- Services -->
+  <url><loc>https://trakyadesign.com.tr/services/consulting</loc><priority>0.7</priority></url>
+  <url><loc>https://trakyadesign.com.tr/services/commissioning</loc><priority>0.7</priority></url>
+  <url><loc>https://trakyadesign.com.tr/services/maintenance</loc><priority>0.7</priority></url>
+  <url><loc>https://trakyadesign.com.tr/services/training</loc><priority>0.7</priority></url>
+  <url><loc>https://trakyadesign.com.tr/services/modernization</loc><priority>0.7</priority></url>
+</urlset>
